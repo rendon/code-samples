@@ -20,8 +20,7 @@ import com.amazonaws.regions.Regions;
  */
 
 
-public class App 
-{
+public class App {
     private DynamoDB db;
 
     public App(DynamoDB db) {
